@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bookList>
+    <book category="Программирование">
+      <Title>Джеффри Рихтер: CLR via C#. Программирование на платформе Microsoft .NET Framework 4.5 на языке C#. 4-е издание</Title>
+      <authors>
+        <author>Рихтер</author>
+        <author>Джеффри;</author>
+        <author>Владислав Колупаев</author>
+      </authors>
+      <Year>2019</Year>
+      <Price>1448</Price>
+    </book>
+    <book category="Программирование">
+      <Title>Рихтер, ван: WinRT. программирование на C# для профессионалов</Title>
+      <authors>
+        <author>Рихтер Джеффри</author>
+      </authors>
+      <Year>2014</Year>
+      <Price>1426</Price>
+    </book>
+    <book category="Обучение чтению. Буквари">
+      <Title>Елена Колесникова: От А до Я. Рабочая тетрадь для детей 5-6 лет. ФГОС ДО</Title>
+      <authors>
+        <author>Колесникова Елена Владимировна</author>
+      </authors>
+      <Year>2018</Year>
+      <Price>169</Price>
+    </book>
+    <book category="Программирование и электроника для детей">
+      <Title>Вордерман, Вудкок, Макаманус: Программирование для детей. Иллюстрированное руководство по языкам Scratch и Python</Title>
+      <authors>
+        <author>Вордерман Кэрол</author>
+      </authors>
+      <Year>2019</Year>
+      <Price>1235</Price>
+    </book>
+    <book category="Программирование">
+      <Title>Пол Бэрри: Изучаем программирование на Python</Title>
+      <authors>
+        <author>Бэрри Пол</author>
+      </authors>
+      <Year>2017</Year>
+      <Price>1070</Price>
+    </book>
+    <book category="Программирование">
+      <Title>Антти Лааксонен: Олимпиадное программирование</Title>
+      <authors>
+        <author>Лааксонен Антти</author>
+      </authors>
+      <Year>2018</Year>
+      <Price>1297</Price>
+    </book>
+  </bookList>
+</bookStore>
